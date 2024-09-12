@@ -1,0 +1,21 @@
+{
+    "name": "swa/turmeric",
+    "description": "hotel",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Swa\\Turmeric\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "SWATHI M",
+            "email": "113039047+swathimuneeswaran@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
